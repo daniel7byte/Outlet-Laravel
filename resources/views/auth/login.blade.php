@@ -58,6 +58,14 @@
                                     Forgot Your Password?
                                 </a>
                             </div>
+
+                            <hr>
+
+                            <div class="col-md-8 col-md-offset-4">
+                                <a class="btn btn-primary" href="{{ url('/redirect') }}">
+                                    Login Facebook
+                                </a>
+                            </div>
                         </div>
                     </form>
                 </div>
